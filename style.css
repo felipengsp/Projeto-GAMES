@@ -31,6 +31,7 @@ p {
 
 header {
     background-image: url(di-devlin-maincraft.png);
+    background-repeat: no-repeat;
     width: 100%;
     height: 80vh;
     background-color: #131313;
@@ -78,4 +79,11 @@ main {
 footer{
     text-align: center;
     color: white;
+}
+@media (max-height:600px) {
+    .imagem{
+        width: 200px;
+        
+    }
+    .image1 {width: 200px;}
 }
