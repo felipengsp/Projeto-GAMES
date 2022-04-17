@@ -68,12 +68,12 @@ main {
 .imagem {
     display: block;
     margin: auto;
-    width: 50vh;
+    width: 300px;
 }
 .imagem1 {
     display: block;
     margin: auto;
-    width: 30vh;
+    width: 300px;
 }
 footer{
     text-align: center;
