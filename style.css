@@ -36,7 +36,7 @@ header {
     background-color: #131313;
 }
 h1 { display: block;
-    padding-top: 110px;
+    padding-top: 120px;
      font-family: "8bits";
     text-align: center;
     color: white;
@@ -45,6 +45,7 @@ h1 { display: block;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-position: center bottom;
+    letter-spacing: 10px;
 }
 
 .sonic{
